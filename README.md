@@ -41,7 +41,7 @@ SocketStream is composed of two main components:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/socketstream.git
+   git clone https://github.com/SachinPulse-bit/SocketStream.git
    cd socketstream
    ```
 
@@ -99,8 +99,4 @@ socketstream/
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
